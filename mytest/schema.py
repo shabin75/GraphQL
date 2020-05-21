@@ -39,3 +39,7 @@ class CreateTest(graphene.Mutation):
 #4
 class Mutation(graphene.ObjectType):
     create_test = CreateTest.Field()
+
+
+class GithubTest():
+    pass
