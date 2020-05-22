@@ -1,8 +1,8 @@
 # First Project
 
-A test project
+**A test project**
 
-This is a paragraph
-'''
+*This is a paragraph*
+
 <p> This is some text <p>
 '''  
