@@ -12,3 +12,5 @@
 
 **link 
  _'<www.oogle.com>'__
+ 
+  `agirardeaudale <https://github.com/agirardeuadale>`_,
