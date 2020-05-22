@@ -7,5 +7,5 @@
 - shabin
 - abc
 
-. shabin
-. abc
+1. shabin
+2. abc
